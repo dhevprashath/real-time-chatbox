@@ -54,3 +54,6 @@ React Router
 
 Description: React Router is a library that enables routing and navigation in React applications.
 Role: Used for navigating between different views in the application, such as the login page, chat rooms, and user profile page.
+
+
+**output page:![Screenshot 2025-01-01 164354](https://github.com/user-attachments/assets/19f24571-6bd4-4b84-9898-a5ab1b95c748)**
